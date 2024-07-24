@@ -1,6 +1,6 @@
 ## Interface: 110000
 ## Title: Right Click Modifier TWW
 ## Author: Minnifutzi
-## Version: 1.0
+## Version: 1.2
 ## SavedVariables: RCM_SavedVariables
 RightClickModifier.lua
